@@ -33,5 +33,5 @@ form.addEventListener('submit', e => {
       });
     });
 
-  form.reset(); // очищення форми після надсилання
+  form.reset();
 });
